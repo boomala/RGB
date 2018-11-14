@@ -207,13 +207,3 @@ if __name__ == "__main__":
       new = convert_primary(original)
       save_image(new, 'D:\Image_primary.jpg')
       
-      
-      
-      
-      
-      
-      
-      
-      
-
-
